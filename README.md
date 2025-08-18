@@ -1,3 +1,3 @@
-#DSA-UCS301
+# UCS301P
 
-   Repository for Lab Submissions
+Repository for Lab Submissions
